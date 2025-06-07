@@ -1,0 +1,40 @@
+# Monitoramento de Máquinas Virtuais no Microsoft Azure
+
+## Descrição do Projeto
+Este repositório contém a documentação e os aprendizados relacionados à configuração e gerenciamento do monitoramento de máquinas virtuais (VMs) no Microsoft Azure. O foco principal é garantir visibilidade, controle e resposta proativa sobre eventos críticos no ambiente, como falhas, altas cargas de CPU e até exclusão acidental de recursos.
+
+Este material foi desenvolvido durante o laboratório prático da plataforma DIO e visa servir como guia para estudos e futuras implementações.
+
+---
+
+## Objetivos do Projeto
+- Aplicar os conceitos teóricos de monitoramento em um ambiente prático no Azure.
+- Documentar processos técnicos de forma clara e organizada.
+- Compartilhar conhecimento através do GitHub para apoio e colaboração.
+
+---
+
+## Conteúdo do Repositório
+
+### 1. Configuração Inicial do Monitoramento
+- Criação e configuração do Azure Monitor para VMs.
+- Configuração do agente Log Analytics nas máquinas virtuais.
+- Integração com Azure Alerts para resposta a eventos críticos.
+
+### 2. Visibilidade e Diagnóstico
+- Uso de dashboards para acompanhamento do desempenho das VMs.
+- Análise de logs e métricas para identificar problemas de performance.
+- Monitoramento de eventos específicos, como exclusão de VM.
+
+### 3. Automação e Resposta Proativa
+- Configuração de alertas automatizados para uso elevado de CPU, falhas de conexão, etc.
+- Integração com Azure Automation ou Logic Apps para respostas automáticas.
+
+### 4. Comandos e Scripts Úteis
+- Exemplos de comandos Azure CLI para configurar monitoramento.
+- Queries básicas do Log Analytics para análise de eventos e métricas.
+
+---
+
+## Estrutura do Repositório
+
