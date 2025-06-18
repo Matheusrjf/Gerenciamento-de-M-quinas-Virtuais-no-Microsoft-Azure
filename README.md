@@ -60,7 +60,7 @@ Este repositório documenta a experiência prática de gerenciamento de máquina
 ---
 
 ## Contato
-Para dúvidas ou sugestões, entre em contato: seuemail@exemplo.com
+Para dúvidas ou sugestões, entre em contato: matheusfrancabh@gmail.com
 
 ---
 
